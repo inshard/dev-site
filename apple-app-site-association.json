@@ -1,0 +1,19 @@
+{
+   "applinks": {
+       "apps": [],
+        "details": [
+             {
+            "appIDs": ["HRX597DC7P.app.initial.NumberSight.NumberSight"],
+            "components": [
+              {
+                 "/": "/plaid/*",
+                 "comment": "Matches any URL path whose path starts with /plaid/"
+              }
+            ]
+          }
+        ]
+    },
+   "webcredentials": {
+       "apps": ["HRX597DC7P.app.initial.NumberSight.NumberSight"]
+    }
+}
